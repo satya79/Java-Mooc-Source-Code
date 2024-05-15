@@ -6,7 +6,10 @@ public class Message{
         System.out.println("Write a message: ");
         String message = scanner.nextLine();
         System.out.println(message);
-    
+        
+        
+        
+        
     
     }
 
